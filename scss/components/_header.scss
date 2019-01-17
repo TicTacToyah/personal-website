@@ -1,5 +1,6 @@
 .header {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  height: 70px;
+  grid-template-rows: 10%vh;
+  grid-template-columns: 150px auto;
 }
